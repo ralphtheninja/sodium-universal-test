@@ -12,9 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sodium-universal": "^3.1.0"
-  },
-  "devDependencies": {
+    "sodium-universal": "^3.1.0",
     "browserify": "^16.5.2",
     "tinyify": "^3.0.0"
   }
