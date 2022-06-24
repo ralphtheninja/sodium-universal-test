@@ -1,0 +1,19 @@
+{
+  "name": "sodium-universal-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "test-browser": "browserify index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sodium-universal": "^3.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^16.5.2"
+  }
+}
